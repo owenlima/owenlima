@@ -32,6 +32,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ## 📫 Contato
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/owen-alves-lima)!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/owenalima)!
 
 
