@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou Owen Lima 👋
 
-<!--
-**owenlima/owenlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Sobre mim 
 
-Here are some ideas to get you started:
+🎓 Sou bacharel em Ciência da Computação pelo UniCEUB e atuo como Analista de Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Minha trajetória inclui a manutenção e evolução de sistemas institucionais e portais, aplicando boas práticas de programação e metodologias ágeis para garantir qualidade e eficiência nas entregas.
+
+📚 Sou apaixonado por tecnologia, gosto de resolver problemas e sempre busco me manter atualizado com novas tecnologias, com o objetivo de aprimorar minhas habilidades e entregar soluções cada vez mais eficientes.
+
+## 🛠️ Tecnologias e ferramentas
+
+### Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+![Rails](https://img.shields.io/badge/-Rails-000?&logo=RubyonRails)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
+
+### Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+## 📫 Contato
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/owen-alves-lima)!
+
+
