@@ -2,7 +2,7 @@
 
 ## 💡 Sobre mim 
 
-🎓 Sou bacharel em Ciência da Computação pelo UniCEUB e atuo como Analista de Desenvolvimento de Sistemas.
+🎓 Sou bacharel em Ciência da Computação pelo UniCEUB e atuo como Desenvolvedor FullStack.
 
 💼 Minha trajetória inclui a manutenção e evolução de sistemas institucionais e portais, aplicando boas práticas de programação e metodologias ágeis para garantir qualidade e eficiência nas entregas.
 
